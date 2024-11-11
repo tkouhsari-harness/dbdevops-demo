@@ -341,7 +341,7 @@ databaseChangeLog:
             columns:
               - column:
                   name: climate
-                  type: VARCHAR(50)                    
+                  type: VARCHAR(51)                    
 
 
 
